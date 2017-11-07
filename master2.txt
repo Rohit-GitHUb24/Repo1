@@ -3,3 +3,5 @@ test master master 2
 tuesday - git hub 2
 tuesday - github
 wednesday 1 -git hub 1
+wednesday - github
+
